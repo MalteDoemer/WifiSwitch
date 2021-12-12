@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wifi Switch</string>
+    <string name="new_switch_activity_title">Add new switch</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add">Add new switch</string>
+    <string name="config_file_path">config.json</string>
+    <string name="action_delete_config">Delete all</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_host">Host 192.168.X.XXX</string>
+    <string name="add_switch_text">add switch</string>
+</resources>
